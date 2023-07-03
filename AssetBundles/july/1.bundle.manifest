@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3864305756
+CRC: 2775738405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 694b37d7ff8c7c3ee64d6712d44dcc01
+    Hash: 198cc01e5acbd61bd0dd07ec6c90aa81
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 026bd47a7026a432df18b54c9921ba26
+    Hash: e0563488258e33c5649a83ea55f4fb4f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,6 +39,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: c7897a1f6b8b2da429961e788e036d52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 323512c2e775d764cb502eb96e4e6454, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -49,5 +51,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/StreamingAssets/July/1/MainScene.unity
+- Assets/DailyLevels/July/1/MainScene.unity
 Dependencies: []
